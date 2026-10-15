@@ -1,0 +1,8 @@
+# OS ফাইল
+.DS_Store
+Thumbs.db
+
+# এডিটর ফাইল
+.vscode/
+.idea/
+*.swp
